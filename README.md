@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Sanjith :)</h2>
-<h3 align="center">CS @ UBC’26 | Prev SWE @ Google, Amazon, Microsoft</h3>
+<h3 align="center">Incoming Software Engineer II @ Google &nbsp; | &nbsp; Prev @ Amazon, Microsoft, Google &nbsp; | &nbsp; CS @ UBC’26 </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
